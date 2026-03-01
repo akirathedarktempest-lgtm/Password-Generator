@@ -1,5 +1,5 @@
 import random
-text="abcdefghigklmnopqrstuvwxyz1234567890!@#$%^&*()"
+text="abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*+-*="
 l=[]
 for i in text:
     l.append(i)
